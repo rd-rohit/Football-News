@@ -1,0 +1,10 @@
+@CHARSET "ISO-8859-1";
+.match-status,.crest,.team-name,.line,.goals,.match-teams,.match-data,.team-home,.team-away  {
+    display:inline-block;
+    margin:10px;
+}
+
+.match-main-data{
+	padding:10px;
+	
+}
